@@ -22,3 +22,8 @@ let numbers: number[] = [1, 2, 3];
 let names: string[] = ["Ali", "Sara", "Zara"];
 
 let tuple: [string, number] = ["Age", 30];
+
+let val: unknown = "Sadiq";
+if (typeof val === "string") {
+  console.log(val.toUpperCase());
+}
