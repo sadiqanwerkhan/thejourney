@@ -1,6 +1,7 @@
 // A user's full name
 
-let fullName: string = "Muhammad Sadiq";
+let fullName: string = "Muhammad Sadiq Anwer";
+let lastName: string = "Khan";
 
 // A user's age
 
